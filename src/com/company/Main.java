@@ -36,6 +36,7 @@ class Main {
         inch = in.nextInt();
         double feet = (12 * inch);
         System.out.println(feet + " in ");
+        System.out.println("\n");
 
 //Below I will try to do the first real conversion exercise, converting Celsius to Fahrenheit
         System.out.println("I can help you convert Celsius to Fahrenheit :)");
