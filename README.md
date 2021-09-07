@@ -12,7 +12,8 @@ Below is a screenshot of one of the outputs.
 
 <details><summary><strong>Pictures</strong></summary> <p>
 
-![image](C:\Users\jacob\Desktop)
+![image](https://user-images.githubusercontent.com/89967283/132376564-5146e873-8f5d-45fd-9bec-2729a3f7da5a.png)
+)
 
 </p>
 </details>
